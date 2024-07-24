@@ -1,0 +1,25 @@
+{
+  "name": "liststatuspro",
+  "version": "1.0.0",
+  "description": "List Satatus con Node.js",
+  "main": "ls_pro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerpa9/listStatusProNodejs.git"
+  },
+  "keywords": [
+    "modules",
+    "require",
+    "function",
+    "process"
+  ],
+  "author": "Keven Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerpa9/listStatusProNodejs/issues"
+  },
+  "homepage": "https://github.com/kerpa9/listStatusProNodejs#readme"
+}
